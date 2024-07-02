@@ -1,2 +1,2 @@
-Link GitHub: https://github.com/feadonai123/UDPserver
-Link Video explicação: https://drive.google.com/file/d/14rjBeUL-08efvz6h4zPZUjOBKc4bGNem/view?usp=sharing
+Link GitHub: https://github.com/feadonai123/TCPServer
+Link Video explicação: https://www.youtube.com/watch?v=REDTjfIONi4
